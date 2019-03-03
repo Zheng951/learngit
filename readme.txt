@@ -3,4 +3,4 @@ git is free software distributed under the GPL.
 git has a mutble index called stage.
 git tracks change of file.
 my stupid boss still prefers SVN.
-don't work.
+creating a new branch is quick&simple
